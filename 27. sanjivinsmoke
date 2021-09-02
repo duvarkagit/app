@@ -22,7 +22,11 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 8,
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
