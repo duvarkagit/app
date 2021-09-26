@@ -4,11 +4,11 @@
     "shincan"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~8970329508",
-  "admob_banner_id": "ca-app-pub-7659212157573907/5031084491",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/6104493013",
-  "admob_native_id": "ca-app-pub-7659212157573907/2404921157",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~9604574115",
+  "admob_banner_id": "ca-app-pub-9783519459437164/3222998599",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/9596835252",
+  "admob_native_id": "ca-app-pub-9783519459437164/4289007568",
 
  "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -48,7 +48,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
