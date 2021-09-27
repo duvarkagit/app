@@ -4,11 +4,11 @@
     "army"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~1308898692",
-  "admob_banner_id": "ca-app-pub-7659212157573907/1323348745",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/3607758973",
-  "admob_native_id": "ca-app-pub-7659212157573907/7550873415",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~6877805598",
+  "admob_banner_id": "ca-app-pub-9783519459437164/3792477257",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/1637087203",
+  "admob_native_id": "ca-app-pub-9783519459437164/7867453634",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
