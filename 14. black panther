@@ -4,11 +4,11 @@
     "panther"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~2640299844",
-  "admob_banner_id": "ca-app-pub-7659212157573907/6046220059",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/7505613715",
-  "admob_native_id": "ca-app-pub-7659212157573907/4591675767",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~8689580719",
+  "admob_banner_id": "ca-app-pub-9783519459437164/4399337139",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/4331872618",
+  "admob_native_id": "ca-app-pub-9783519459437164/7320658728",
 
    "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
