@@ -4,11 +4,11 @@
     "koala"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~1207798673",
-  "admob_banner_id": "ca-app-pub-7659212157573907/5779816119",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/1193348621",
-  "admob_native_id": "ca-app-pub-7659212157573907/1472550227",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~9168092862",
+  "admob_banner_id": "ca-app-pub-9783519459437164/7855011197",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/6541929521",
+  "admob_native_id": "ca-app-pub-9783519459437164/5900105155",
 
    "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
