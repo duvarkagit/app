@@ -4,11 +4,11 @@
     "Takagisan"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~8382978478",
-  "admob_banner_id": "ca-app-pub-7659212157573907/3030579449",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/3330990010",
-  "admob_native_id": "ca-app-pub-7659212157573907/4599839658",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~2855139410",
+  "admob_banner_id": "ca-app-pub-9783519459437164/1964745484",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/3273941819",
+  "admob_native_id": "ca-app-pub-9783519459437164/1497841624",
 
 
   "admob_hpk_1": "home 5g broadband",
@@ -49,7 +49,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
