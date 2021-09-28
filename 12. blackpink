@@ -4,11 +4,11 @@
     "black pink"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~7738575679",
-  "admob_banner_id": "ca-app-pub-7659212157573907/3560846880",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/2355576421",
-  "admob_native_id": "ca-app-pub-7659212157573907/1042494758",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~2566600463",
+  "admob_banner_id": "ca-app-pub-9783519459437164/5440191722",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/7025215067",
+  "admob_native_id": "ca-app-pub-9783519459437164/4303204027",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
