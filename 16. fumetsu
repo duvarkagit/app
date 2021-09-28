@@ -4,11 +4,11 @@
     "Fumetsu"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~4682356862",
-  "admob_banner_id": "ca-app-pub-7659212157573907/8281501155",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/6968419483",
-  "admob_native_id": "ca-app-pub-7659212157573907/6178081991",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~4574650852",
+  "admob_banner_id": "ca-app-pub-9783519459437164/1652974042",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/9339892375",
+  "admob_native_id": "ca-app-pub-9783519459437164/7153207571",
 
    "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 11,
 
   "primary_ads": "ADMOB",
   "list_ads": [
