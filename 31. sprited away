@@ -4,11 +4,11 @@
     "sprited away"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9067857494494316",
-  "app_id": "ca-app-pub-9067857494494316~2278174512",
-  "admob_banner_id": "ca-app-pub-9067857494494316/3998450295",
-  "admob_interstitial_id": "ca-app-pub-9067857494494316/6025847831",
-  "admob_native_id": "ca-app-pub-9067857494494316/3806878605",
+  "pub_id": "pub-9783519459437164",
+  "app_id": "ca-app-pub-9783519459437164~5915979655",
+  "admob_banner_id": "ca-app-pub-9783519459437164/1289165478",
+  "admob_interstitial_id": "ca-app-pub-9783519459437164/7765932153",
+  "admob_native_id": "ca-app-pub-9783519459437164/1368044768",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 13,
 
   "primary_ads": "ADMOB",
   "list_ads": [
