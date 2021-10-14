@@ -4,11 +4,11 @@
     "gwen"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9783519459437164",
-  "app_id": "ca-app-pub-9783519459437164~8299037789",
-  "admob_banner_id": "ca-app-pub-9783519459437164/9359664555",
-  "admob_interstitial_id": "ca-app-pub-9783519459437164/7217072162",
-  "admob_native_id": "ca-app-pub-9783519459437164/6733501219",
+  "pub_id": "pub-6669644089523399",
+  "app_id": "ca-app-pub-6669644089523399~5347189359",
+  "admob_banner_id": "ca-app-pub-6669644089523399/9264229547",
+  "admob_interstitial_id": "ca-app-pub-6669644089523399/7456323855",
+  "admob_native_id": "ca-app-pub-6669644089523399/4458964732",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 11,
+  "interstitial_inverval": 15,
 
   "primary_ads": "ADMOB",
   "list_ads": [
