@@ -5,11 +5,11 @@
   ],
   "init_jumlah_photo": 100,
   
-  "pub_id": "pub-9783519459437164",
-  "app_id": "ca-app-pub-9783519459437164~5233142314",
-  "admob_banner_id": "ca-app-pub-9783519459437164/7874783378",
-  "admob_interstitial_id": "ca-app-pub-9783519459437164/7452095635",
-  "admob_native_id": "ca-app-pub-9783519459437164/2375028770",
+  "pub_id": "pub-1700725034984003",
+  "app_id": "ca-app-pub-1700725034984003~4073227016",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-1700725034984003/7451049453",
+  "admob_native_id": "ca-app-pub-1700725034984003/1447063672",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -48,7 +48,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 11,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
