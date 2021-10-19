@@ -4,11 +4,11 @@
     "sanji"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9783519459437164",
-  "app_id": "ca-app-pub-9783519459437164~7016997270",
-  "admob_banner_id": "ca-app-pub-9783519459437164/6505845472",
-  "admob_interstitial_id": "ca-app-pub-9783519459437164/4390833937",
-  "admob_native_id": "ca-app-pub-9783519459437164/8110571186",
+  "pub_id": "pub-1700725034984003",
+  "app_id": "ca-app-pub-1700725034984003~7147797126",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-1700725034984003/5834715454",
+  "admob_native_id": "ca-app-pub-1700725034984003/4521633784",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -51,7 +51,7 @@
   "unity_banner": "",
   "unity_interstitial": "",
 
-  "interstitial_inverval": 11,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
