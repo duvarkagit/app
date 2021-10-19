@@ -4,11 +4,11 @@
     "bleach"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9783519459437164",
-  "app_id": "ca-app-pub-9783519459437164~8789228037",
-  "admob_banner_id": "ca-app-pub-9783519459437164/5554701785",
-  "admob_interstitial_id": "ca-app-pub-9783519459437164/5233453370",
-  "admob_native_id": "ca-app-pub-9783519459437164/9392190236",
+  "pub_id": "pub-1700725034984003",
+  "app_id": "ca-app-pub-1700725034984003~6966983664",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-1700725034984003/8181677197",
+  "admob_native_id": "ca-app-pub-1700725034984003/6868595523",
 
  "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 12,
+  "interstitial_inverval": 4,
 
   "primary_ads": "ADMOB",
   "list_ads": [
