@@ -4,11 +4,11 @@
     "MVA"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9783519459437164",
-  "app_id": "ca-app-pub-9783519459437164~7388516457",
-  "admob_banner_id": "ca-app-pub-9783519459437164/2571319957",
-  "admob_interstitial_id": "ca-app-pub-9783519459437164/7181127739",
-  "admob_native_id": "ca-app-pub-9783519459437164/5233126402",
+  "pub_id": "pub-1700725034984003",
+  "app_id": "ca-app-pub-1700725034984003~7914083888",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-1700725034984003/6601002212",
+  "admob_native_id": "ca-app-pub-1700725034984003/5089621752",
 
  "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -46,7 +46,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 11,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
