@@ -4,11 +4,11 @@
     "vegeta"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9783519459437164",
-  "app_id": "ca-app-pub-9783519459437164~6953729155",
-  "admob_banner_id": "ca-app-pub-9783519459437164/5640647487",
-  "admob_interstitial_id": "ca-app-pub-9783519459437164/3887408654",
-  "admob_native_id": "ca-app-pub-9783519459437164/8948163643",
+  "pub_id": "pub-1700725034984003",
+  "app_id": "ca-app-pub-1700725034984003~3486903659",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-1700725034984003/2173821980",
+  "admob_native_id": "ca-app-pub-1700725034984003/8547658646",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -48,7 +48,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 15,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
