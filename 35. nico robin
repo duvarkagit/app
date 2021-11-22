@@ -4,11 +4,11 @@
     "nico robin"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1700725034984003",
-  "app_id": "ca-app-pub-1700725034984003~6064302824",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "ca-app-pub-1700725034984003/1565626946",
-  "admob_native_id": "ca-app-pub-1700725034984003/9811976140",
+  "pub_id": "pub-8329486732461986",
+  "app_id": "ca-app-pub-8329486732461986~3573443225",
+  "admob_banner_id": "ca-app-pub-8329486732461986/3994430847",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-8329486732461986/1368267500",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -48,7 +48,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
