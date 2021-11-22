@@ -4,11 +4,11 @@
     "Miles Morales", "peter parker", "gwen stacy"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-9031990029844728",
-  "app_id": "ca-app-pub-9031990029844728~1849659401",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "ca-app-pub-9031990029844728/6027743413",
-  "admob_native_id": "ca-app-pub-9031990029844728/8223496068",
+  "pub_id": "pub-8329486732461986",
+  "app_id": "ca-app-pub-8329486732461986~4872398249",
+  "admob_banner_id": "ca-app-pub-8329486732461986/3194169278",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-8329486732461986/5993908224",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 3,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
