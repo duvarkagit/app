@@ -4,11 +4,11 @@
     "ironman"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1700725034984003",
-  "app_id": "ca-app-pub-1700725034984003~6430623588",
-  "admob_banner_id": "ca-app-pub-1700725034984003/6780801319",
+  "pub_id": "pub-8329486732461986",
+  "app_id": "ca-app-pub-8329486732461986~1306372532",
+  "admob_banner_id": "ca-app-pub-8329486732461986/6516652405",
   "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-9031990029844728/7046145767",
+  "admob_native_id": "ca-app-pub-8329486732461986/5203570730",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 15,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
