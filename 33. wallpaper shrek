@@ -4,11 +4,11 @@
     "shrek"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1700725034984003",
-  "app_id": "ca-app-pub-1700725034984003~2035179045",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "ca-app-pub-1700725034984003/8406367467",
-  "admob_native_id": "ca-app-pub-1700725034984003/7248364318",
+  "pub_id": "pub-8329486732461986",
+  "app_id": "ca-app-pub-8329486732461986~5461239967",
+  "admob_banner_id": "ca-app-pub-8329486732461986/7882732631",
+  "admob_interstitial_id": "",
+  "admob_native_id": "ca-app-pub-8329486732461986/3943487625",
 
   "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -48,7 +48,7 @@
 
   "startapp_app_id": "206900641",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
