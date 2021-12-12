@@ -43,15 +43,15 @@
   "admob_hpk_30": "attorney define",
 
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
+  "fan_banner_id": "2108710009294639_2108720469293593",
+  "fan_interstitial_id": "2108710009294639_2108723519293288",
+  "fan_native_id": "2108710009294639_2108724112626562",
 
   "startapp_app_id": "206900641",
 
   "interstitial_inverval": 4,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
