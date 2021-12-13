@@ -6,8 +6,8 @@
   "init_jumlah_photo": 100,
   "pub_id": "pub-1700725034984003",
   "app_id": "ca-app-pub-1700725034984003~1731818917",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "ca-app-pub-1700725034984003/7907356789",
+  "admob_banner_id": "ca-app-pub-1700725034984003/6978554939",
+  "admob_interstitial_id": "",
   "admob_native_id": "ca-app-pub-1700725034984003/6594275110",
 
  "admob_hpk_1": "home 5g broadband",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 8,
 
   "primary_ads": "ADMOB",
   "list_ads": [
