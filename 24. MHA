@@ -4,11 +4,11 @@
     "boku no hero"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1700725034984003",
-  "app_id": "ca-app-pub-1700725034984003~1731818917",
-  "admob_banner_id": "ca-app-pub-1700725034984003/6978554939",
+  "pub_id": "pub-6230199240891395",
+  "app_id": "ca-app-pub-6230199240891395~8348787409",
+  "admob_banner_id": "ca-app-pub-6230199240891395/5722624061",
   "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-1700725034984003/6594275110",
+  "admob_native_id": "ca-app-pub-6230199240891395/7834422716",
 
  "admob_hpk_1": "home 5g broadband",
   "admob_hpk_2": "home insurance",
@@ -47,7 +47,7 @@
 
   "startapp_app_id": "",
 
-  "interstitial_inverval": 8,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
